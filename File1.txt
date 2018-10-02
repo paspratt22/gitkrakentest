@@ -1,3 +1,5 @@
 Here is some text. Changed.
 
 And some more.
+
+Fixed a bug here.
