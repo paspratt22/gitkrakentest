@@ -3,3 +3,5 @@ Here is some text. Changed.
 And some more.
 
 Fixed a bug here.
+
+Fixed another bug as part of hotfix 2.
